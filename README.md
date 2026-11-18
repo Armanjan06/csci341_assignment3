@@ -2,7 +2,7 @@
 
 ## 1. Project Overview & File Structure
 
-This repository implements the **Research Conference and Paper Review Management System** for **CSCI 341 (Database Systems, Fall 2026)** using **PostgreSQL**, **Python 3**, **SQLAlchemy 2.0**, and **FastAPI**.
+This repository implements the **Research Conference and Paper Review Management System** for **CSCI 341** using **PostgreSQL**, **Python 3**, **SQLAlchemy 2.0**, and **FastAPI**.
 
 ```text
 ├── schema.sql             # Part 1: PostgreSQL DDL (15 tables, PKs, FKs, UNIQUE & CHECK constraints)
